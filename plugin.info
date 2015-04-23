@@ -1,5 +1,5 @@
 {
-	"title": "$:/plugins/welford/partialimage",
+	"title": "$:/plugins/welford/twspimg",
 	"description": "enables a partial image to be shown as the background of a span element",
     "author": "James.W.Anderson",
     "core-version": ">=5.0.0",

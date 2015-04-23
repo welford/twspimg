@@ -1,4 +1,4 @@
-partialimage
+twspimg
 =====
 
 A quick plugin for my blogging purposes
